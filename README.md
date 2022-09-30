@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gitko01 aka Chace
 - 👀 I like to program in various different programming languages for various different purposes
-- 🌱 I am learning about Scrap Mechanic modding and web development with Node.JS
+- 🌱 I am learning about Scrap Mechanic modding, web development with Node.JS, Godot game development, and Minecraft modding.
 - 💞️ I'm not really looking to collaborate
 - 📫 GitHub issues lol
 
